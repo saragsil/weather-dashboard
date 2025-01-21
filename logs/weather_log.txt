@@ -1,0 +1,34 @@
+[Τρι 21 Ιαν 2025 10:38:34 πμ EET] Starting Weather Dashboard Script
+weather_dashboard.sh: line 31: jq: command not found
+weather_dashboard.sh: line 32: jq: command not found
+weather_dashboard.sh: line 33: jq: command not found
+weather_dashboard.sh: line 34: jq: command not found
+weather_dashboard.sh: line 31: jq: command not found
+weather_dashboard.sh: line 32: jq: command not found
+weather_dashboard.sh: line 33: jq: command not found
+weather_dashboard.sh: line 34: jq: command not found
+[Τρι 21 Ιαν 2025 10:38:35 πμ EET] Weather dashboard generated successfully
+[Τρι 21 Ιαν 2025 10:45:05 πμ EET] Starting Weather Dashboard Script
+weather_dashboard.sh: line 31: jq: command not found
+weather_dashboard.sh: line 32: jq: command not found
+weather_dashboard.sh: line 33: jq: command not found
+weather_dashboard.sh: line 34: jq: command not found
+weather_dashboard.sh: line 31: jq: command not found
+weather_dashboard.sh: line 32: jq: command not found
+weather_dashboard.sh: line 33: jq: command not found
+weather_dashboard.sh: line 34: jq: command not found
+[Τρι 21 Ιαν 2025 10:45:06 πμ EET] Weather dashboard generated successfully
+[Τρι 21 Ιαν 2025 10:47:49 πμ EET] Starting Weather Dashboard Script
+weather_dashboard.sh: line 31: jq: command not found
+weather_dashboard.sh: line 32: jq: command not found
+weather_dashboard.sh: line 33: jq: command not found
+weather_dashboard.sh: line 34: jq: command not found
+weather_dashboard.sh: line 31: jq: command not found
+weather_dashboard.sh: line 32: jq: command not found
+weather_dashboard.sh: line 33: jq: command not found
+weather_dashboard.sh: line 34: jq: command not found
+[Τρι 21 Ιαν 2025 10:47:50 πμ EET] Weather dashboard generated successfully
+[Τρι 21 Ιαν 2025 10:48:51 πμ EET] Starting Weather Dashboard Script
+[Τρι 21 Ιαν 2025 10:48:52 πμ EET] Weather dashboard generated successfully
+[Τρι 21 Ιαν 2025 10:50:43 πμ EET] Starting Weather Dashboard Script
+[Τρι 21 Ιαν 2025 10:50:44 πμ EET] Weather dashboard generated successfully
