@@ -34,3 +34,5 @@ weather_dashboard.sh: line 34: jq: command not found
 [Τρι 21 Ιαν 2025 10:50:44 πμ EET] Weather dashboard generated successfully
 [Τετ 22 Ιαν 2025 02:29:28 μμ EET] Starting Weather Dashboard Script
 [Τετ 22 Ιαν 2025 02:29:29 μμ EET] Weather dashboard generated successfully
+[Τετ 22 Ιαν 2025 02:53:36 μμ EET] Starting Weather Dashboard Script
+[Τετ 22 Ιαν 2025 02:53:39 μμ EET] Weather dashboard generated successfully

@@ -3,7 +3,7 @@
 # ============= CONFIGURATION =============
 DASHBOARD=weather_dashboard.md         # Path to the generated Markdown file
 LOG_FILE=logs/weather_log.txt          # Path to the log file
-LOCATIONS=("37.9838,23.7275 Αθήνα" "40.6401,22.9444 Θεσσαλονίκη") # "latitude,longitude Location"
+LOCATIONS=("37.9838,23.7275 Αθήνα" "40.6401,22.9444 Θεσσαλονίκη" "39.6650,20.8537 Ιωάννινα" "35.5138,24.0180 Χανιά" "51.5074,-0.1278 Λονδίνο" "38.9072,-77.0369 Washington") # "latitude,longitude Location"
 
 # ============= START SCRIPT =============
 # Redirect all output (stdout and stderr) to the log file
